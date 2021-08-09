@@ -8,5 +8,11 @@ TITULO DO PROJETO:
 OBJETIVO DO PROJETO:
 VERSÃO ou DATA:
 COMO INICIAR O PROJETO:
-AUTORES:
+AUTORES: 
+a93252,Rui Pedro Chaves Silva Lousada Alves,ruipedrolousada
+
+a93267,Alexandre Daniel Canhoto Poiares Coimbra Soares,AlexandreDanielSoares
+
+a93225,Pedro Alexandre Coutinho Gonçalves de Sousa,PWACN
+
 INSTRUÇÕES PARA O USUÁRIO:
