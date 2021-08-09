@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Defesa
+comment0.text=\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ Defesa\ aqui.\n\ \n\ @author\ (seu\ nome)\ \n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\n
+comment1.params=
+comment1.target=Defesa()
+comment2.params=nome\ num\ vel\ res\ des\ imp\ jCab\ rem\ cPas
+comment2.target=Defesa(java.lang.String,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int)
+comment3.params=m
+comment3.target=Defesa(Defesa)
+comment4.params=
+comment4.target=Defesa\ clone()
+comment5.params=s
+comment5.target=Defesa\ loadLine(java.lang.String)
+comment6.params=
+comment6.target=int\ getPontos()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

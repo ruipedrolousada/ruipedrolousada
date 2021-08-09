@@ -1,0 +1,3 @@
+public enum JogadorType{
+    AVANCADO, LATERAL, MEDIO, DEFESA, GUARDAREDES
+}

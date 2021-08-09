@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=LoadWrite
+comment0.text=\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ Load\ aqui.\n\ \n\ @author\ (seu\ nome)\ \n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\n
+comment1.params=file
+comment1.target=Gestor\ loadTextFile(java.lang.String)
+comment2.params=file
+comment2.target=Gestor\ loadObjFile(java.lang.String)
+comment3.params=file\ g
+comment3.target=void\ writeObjFile(java.lang.String,\ Gestor)
+comment4.params=file
+comment4.target=java.util.List\ fileLines(java.lang.String)
+numComments=5

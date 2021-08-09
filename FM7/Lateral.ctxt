@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Lateral
+comment0.text=\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ Lateral\ aqui.\n\ \n\ @author\ (seu\ nome)\ \n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\n
+comment1.params=
+comment1.target=Lateral()
+comment2.params=nome\ num\ vel\ res\ des\ imp\ jCab\ rem\ cPas\ cruzamento
+comment2.target=Lateral(java.lang.String,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int)
+comment3.params=m
+comment3.target=Lateral(Lateral)
+comment4.params=
+comment4.target=int\ getCruz()
+comment5.params=
+comment5.target=Lateral\ clone()
+comment6.params=s
+comment6.target=Lateral\ loadLine(java.lang.String)
+comment7.params=
+comment7.target=int\ getPontos()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9
